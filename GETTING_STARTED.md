@@ -5,7 +5,7 @@
 ### Step 1: Navigate to Project
 
 ```bash
-cd c:\Users\HP\Desktop\Gradu
+cd ./
 ```
 
 ### Step 2: Start the Server
@@ -93,19 +93,6 @@ Complete API documentation with:
 - cURL examples
 - Postman setup guide
 - Error handling examples
-
-### 4. **PROJECT_SUMMARY.md** - Overview
-
-Project structure and highlights:
-
-- Directory structure with descriptions
-- MVCS layer breakdown
-- Data flow diagram
-- Features checklist
-- Code statistics
-- Best practices implemented
-
----
 
 ## 🏗️ Understanding the Architecture
 
